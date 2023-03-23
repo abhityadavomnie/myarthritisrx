@@ -1,0 +1,131 @@
+@media only screen and (min-width : 768px) {
+
+    div#statuswiseuser ul {
+        overflow-x: hidden;
+        white-space: nowrap;
+        width: 100%;
+        margin-bottom: 25px;
+    }
+
+        div#statuswiseuser ul li {
+            display: inline;
+            padding: 0px 15px 0px 0px;
+        }
+
+
+        div#statuswiseuser ul span.label {
+            font-size: 14px;
+        }
+    }
+
+    .bg-white {
+        background-color: #ffffff;
+    }
+    .text-center {
+        text-align: center;
+    }
+    
+    .inner-nav {
+        position: fixed;
+        padding: 0 0;
+        width: 100%;
+        left: 0;
+        top: 101px;
+        z-index: 99;
+        background-color: #f0f0f0 !important;
+    }
+    .bg-white {
+        background-color: #ffffff;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .inner-nav {
+        position: fixed;
+        padding: 0 0;
+        width: 100%;
+        left: 0;
+        top: 101px;
+        z-index: 99;
+        background-color: #f0f0f0 !important;
+    }
+    .inner-nav .wrapper3 {
+        position: relative !important;
+        max-width: 100% !important;
+    }
+    .inner-nav .wrapper3 {
+        position: relative;
+        max-width: 100%;
+    }
+    .wrapper3 {
+        max-width: 1470px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+
+
+.inner-nav ul {
+    display: block !important;
+}
+
+
+.inner-nav ul {
+    display: block !important;
+}
+ol, ul {
+    list-style: none;
+}
+.lireportcategory {
+    display: inline-block;
+    margin: 0 2px;
+    font-size: 16px;
+    vertical-align: top;
+}
+.lireportcategory {
+    display: inline-block;
+    margin: 0 2px;
+    font-size: 16px;
+    vertical-align: top;
+}
+
+.lireportcategory a {
+    padding: 12px 8px;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 1;
+}
+.lireportcategory.active a, .lireportcategory a:hover {
+    background-color: #1387da;
+    color: #fff;
+}
+.Filter-form {
+    background: none;
+    padding: 0;
+    padding-top: 10px;
+}
+
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+.Report-filter-field, #Report-filter {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    /* flex-wrap: wrap; */
+    align-items: center;
+}
+.filter-col {
+    padding-right: 10px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    padding: 0 20px 0 0;
+    position: relative;
+    text-align: left;
+}
+.Filter-form .search-panel {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
